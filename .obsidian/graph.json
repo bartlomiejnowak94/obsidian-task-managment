@@ -1,0 +1,72 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Life/Books",
+      "color": {
+        "a": 1,
+        "rgb": 10309038
+      }
+    },
+    {
+      "query": "path:Life/Languages",
+      "color": {
+        "a": 1,
+        "rgb": 5422560
+      }
+    },
+    {
+      "query": "path:Life/Science",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:Journal",
+      "color": {
+        "a": 1,
+        "rgb": 31743
+      }
+    },
+    {
+      "query": "path:Life/Trips",
+      "color": {
+        "a": 1,
+        "rgb": 570382
+      }
+    },
+    {
+      "query": "path:Work",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Life/Tasks",
+      "color": {
+        "a": 1,
+        "rgb": 16753152
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.97115384615385,
+  "lineSizeMultiplier": 2.13269230769231,
+  "collapse-forces": false,
+  "centerStrength": 0.181122448979592,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 500,
+  "scale": 0.010952991388875817,
+  "close": true
+}

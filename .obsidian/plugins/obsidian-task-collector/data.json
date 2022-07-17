@@ -1,0 +1,16 @@
+{
+  "completedAreaHeader": "## Log",
+  "removeExpression": "",
+  "appendDateFormat": "",
+  "incompleteTaskValues": " pi>!?Dc",
+  "supportCanceledTasks": true,
+  "rightClickComplete": true,
+  "rightClickMark": true,
+  "rightClickMove": false,
+  "rightClickReset": false,
+  "rightClickResetTask": true,
+  "rightClickResetAll": false,
+  "rightClickToggleAll": false,
+  "completedAreaRemoveCheckbox": false,
+  "onlyLowercaseX": false
+}

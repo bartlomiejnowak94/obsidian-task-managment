@@ -1,0 +1,12 @@
+input[data-task="2"]:checked,
+li[data-task="2"] > input:checked {
+  vertical-align: text-center;
+  background-position: center;
+  background-size: 40%;
+  background-color: var(--blue) !important;
+  background-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20style%3D%22fill%3A%23fff%22%20viewBox%3D%220%200%20320%20512%22%3E%3C!--!%20Font%20Awesome%20Pro%206.1.1%20by%20%40fontawesome%20-%20https%3A%2F%2Ffontawesome.com%20License%20-%20https%3A%2F%2Ffontawesome.com%2Flicense%20(Commercial%20License)%20Copyright%202022%20Fonticons%2C%20Inc.%20--%3E%3Cpath%20d%3D%22M320%20448c0%2017.67-14.33%2032-32%2032H32c-13.08%200-24.83-7.953-29.7-20.09c-4.859-12.12-1.859-26%207.594-35.03l193.6-185.1c31.36-30.17%2033.95-80%205.812-113.4c-14.91-17.69-35.86-28.12-58.97-29.38C127.4%2095.83%20105.3%20103.9%2088.53%20119.9L53.52%20151.7c-13.08%2011.91-33.33%2010.89-45.2-2.172C-3.563%20136.5-2.594%20116.2%2010.48%20104.3l34.45-31.3c28.67-27.34%2068.39-42.11%20108.9-39.88c40.33%202.188%2078.39%2021.16%20104.4%2052.03c49.8%2059.05%2045.2%20147.3-10.45%20200.8l-136%20130H288C305.7%20416%20320%20430.3%20320%20448z%22%2F%3E%3C%2Fsvg%3E");
+}
+.markdown-reading-view li[data-task="2"]::after {
+  content: " Anxious / Sick";
+  color: var(--red);
+}

@@ -1,0 +1,46 @@
+{
+  "settings": {
+    "enableRemixiconsLine": true,
+    "enableRemixiconsFill": true,
+    "enableFontawesomeFill": true,
+    "enableFontawesomeLine": true,
+    "enableFontawesomeBrands": true,
+    "fontSize": 16,
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FaDogFill",
+      "FaCarrotFill",
+      "RiTaskLine",
+      "FaCalendarDayFill",
+      "FaMoneyBillFill"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "extraPadding": {
+      "top": 2,
+      "right": 2,
+      "bottom": 2,
+      "left": 2
+    }
+  },
+  "Journal": "FaStickyNoteFill",
+  "Templates": "RiBuildingLine",
+  "TemplatesJS": "FaCodeFill",
+  "Work": "FaBriefcaseFill",
+  "Home.md": "RiHome4Fill",
+  "Work/CV": "FaUserSecretFill",
+  "Work/Literature": "FaOrcidBrands",
+  "Work/Presentations": "RiSlideshow2Fill",
+  "Work/Projects": "FaProjectDiagramFill",
+  "Life/Inspiration": "FaLightbulbLine",
+  "Life/Languages": "FaLanguageFill",
+  "Life/Movies": "RiYoutubeFill",
+  "Life/Music": "RiMusic2Fill",
+  "Life/Science": "FaDnaFill",
+  "Life/Trips": "RiPlaneFill",
+  "Work/Studenci": "FaChalkboardTeacherFill",
+  "Work/PHD": "RiFileUnknowFill",
+  "Life/Finanse": "FaMoneyBillFill",
+  "Life/Przepisy": "FaCarrotFill",
+  "Tasks": "RiTaskLine",
+  "Life/Rollo": "FaDogFill"
+}

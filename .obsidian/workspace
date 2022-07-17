@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "6ebd4f6dde74b16f",
+    "type": "split",
+    "children": [
+      {
+        "id": "31c1d0f5cd101005",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6a4b6e361bfa27f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8558d7666a48c5b",
+        "type": "tabs",
+        "dimension": 58.12883435582822,
+        "children": [
+          {
+            "id": "388ab93008ad85c0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0ca687b0e0cd8f54",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2aed29e6cf74270e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "66b29af42899d0ad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0946f390a315bf49",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "75f619763f2ef71b",
+        "type": "tabs",
+        "dimension": 41.87116564417178,
+        "children": [
+          {
+            "id": "a32b1250a3b3da0c",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 272
+  },
+  "right": {
+    "id": "b9666538fe9f15e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "eed8d6df0ae55887",
+        "type": "tabs",
+        "dimension": 53.987730061349694,
+        "children": [
+          {
+            "id": "069f0f32b6b5e0ad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "ff6a5ed84ac81ed8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d63842efabf08fa1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4920a5ebee122e5c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "ab247a5a2028ea40",
+        "type": "tabs",
+        "dimension": 46.012269938650306,
+        "children": [
+          {
+            "id": "f55c006dc59b13f9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 295.5
+  },
+  "active": "31c1d0f5cd101005",
+  "lastOpenFiles": [
+    "Journal/2022/07-July/2022-07-17.md",
+    "Tasks/Work/Kanban.md",
+    "README.md",
+    "Templates/daily_note_temp.md",
+    "Life/Books/Books - all/Jonathan Carroll/J. Carroll - Mr. Breakfast.md",
+    "Journal/2022/2022.md",
+    "Journal/Journal.md",
+    "Tasks/Work/Work.md",
+    "Tasks.md",
+    "Journal/Pics/banner2.svg"
+  ]
+}
