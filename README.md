@@ -1,6 +1,6 @@
 # obsidian-task-managment
 
-Example vault with task managment system under Obsidian [Obsidian.md](https://obsidian.md/)
+Example vault with task managment system under Obsidian [<img src="pictures/obsidian.png" height="60">](https://github.com/obsidianmd)
 
 ## Instalation
 
